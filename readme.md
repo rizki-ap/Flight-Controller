@@ -10,10 +10,9 @@ Processors and Core Specs
 - Secure Element: SE050 for drone cryptographic authentication
 
 On-Board Sensors
-Accel/Gyro
-- 1: ICM-20649 (Hard Mounted)Accel/Gyro
-- 2: ICM-42688P (Soft Mounted)Accel/Gyro
-- 3: ICM-20602 or BMI088 (Soft Mounted)
+- Accel/Gyro 1: ICM-20649 (Hard Mounted)Accel/Gyro
+- Accel/Gyro 2: ICM-42688P (Soft Mounted)Accel/Gyro
+- Accel/Gyro 3: ICM-20602 or BMI088 (Soft Mounted)
 - Magnetometer: BMM150
 - Barometer: 2x BMP388 (on separate buses)
 

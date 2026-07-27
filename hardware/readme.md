@@ -8,7 +8,7 @@ pixhawk 5x standard :
 **Component**
 
 Processor 
-- STM32F765x - flight-processor [[datasheet]](https://www.st.com/resource/en/datasheet/stm32f765ii.pdf) [details]()
+- STM32F765x - flight-processor [[datasheet]](https://www.st.com/resource/en/datasheet/stm32f765ii.pdf) - [details](https://github.com/rizki-ap/Flight-Controller/blob/main/hardware/FlightMCU.md)
 - STM32f103x - IO-processor [[datasheet]](https://www.st.com/resource/en/datasheet/stm32f103c8.pdf)
 
 Sensors :

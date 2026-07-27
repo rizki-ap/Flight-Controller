@@ -12,7 +12,7 @@ Processor
 - STM32f103x microcontroller https://www.st.com/resource/en/datasheet/stm32f103c8.pdf
 
 IMU/Gyro
-- ICM‑20689 (×2)	3‑axis gyro + 3‑axis accel, SPI-if [datasheet](https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/ds-000143-icm-20689-datasheet.pdf)
+- ICM‑20689 (×2)	3‑axis gyro + 3‑axis accel, SPI-if [[ICM‑20689 datasheet]](https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/ds-000143-icm-20689-datasheet.pdf)
 - ICM‑42688‑P https://invensense.tdk.com/download-pdf/icm-42688-p-datasheet/ 
 - BMI088 https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi088-ds001.pdf
 

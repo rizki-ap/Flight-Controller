@@ -13,7 +13,7 @@ Processor
 
 Sensors :
 - ICM‑20689 (×2)	3‑axis gyro + 3‑axis accel, SPI-if [[datasheet]](https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/ds-000143-icm-20689-datasheet.pdf)
-- ICM‑42688‑P [[datasheet]](https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/ds-000347-icm-42688-p-v1.6.pdf)
+- ICM‑42688‑P 6-Axis MEMS MotionTracking [[datasheet]](https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/ds-000347-icm-42688-p-v1.6.pdf)
 - BMI088 [[datasheet]](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi088-ds001.pdf)
 - MS5611‑01BA03	High‑resolution barometric pressure sensor (I²C/SPI)	[[Datasheet]](https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FMS5611-01BA03%7FB3%7Fpdf%7FEnglish%7FENG_DS_MS5611-01BA03_B3.pdf)
 - IST8310	3‑axis magnetometer (I²C)	[[Datasheet]](https://www.isentek.com/api/download?url=https%3A%2F%2Fassets.isentek.com%2Fpublic%2Fdocuments%2Fdatasheet%2FHFH0n8I7hQ-IST8310_Datasheet_V1.8_Web.pdf&filename=IST8310_Datasheet_V1.8_Web.pdf&action=view)

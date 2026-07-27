@@ -1,9 +1,9 @@
 **Hardware Design** 
 
 pixhawk 5x standard :
-- specs : https://github.com/pixhawk/Pixhawk-Standards/blob/master/DS-011%20Pixhawk%20Autopilot%20v5X%20Standard.pdf
-- Bus : https://github.com/pixhawk/Pixhawk-Standards/blob/master/DS-010%20Pixhawk%20Autopilot%20Bus%20Standard.pdf
-- connector : https://github.com/pixhawk/Pixhawk-Standards/blob/master/DS-009%20Pixhawk%20Connector%20Standard.pdf
+- specs  [[Pixhawk DS-011]](https://github.com/pixhawk/Pixhawk-Standards/blob/master/DS-011%20Pixhawk%20Autopilot%20v5X%20Standard.pdf)
+- Bus  [[Pixhawk DS-010]]https://github.com/pixhawk/Pixhawk-Standards/blob/master/DS-010%20Pixhawk%20Autopilot%20Bus%20Standard.pdf
+- connector [[Pixhawk DS-009]]https://github.com/pixhawk/Pixhawk-Standards/blob/master/DS-009%20Pixhawk%20Connector%20Standard.pdf
 - 
 
 Component :
@@ -34,5 +34,6 @@ Power :
 - INA226AIDGSR (×2)	I²C current/voltage/power monitor (dual battery inputs)	[[Datasheet]](https://www.ti.com/lit/ds/symlink/ina226.pdf)
 - MCP73831T‑2ACI/OT	Li‑Poly charger for the RTC backup battery	[[Datasheet]](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73831-Family-Data-Sheet-DS20001984H.pdf)
 
+Other :
 - PCA9306DCUR	Dual bidirectional I²C level shifter (3.3 V ↔ 5 V)	[[Datasheet]](https://www.ti.com/lit/ds/symlink/pca9306.pdf)
 - WS2812B‑2020	Addressable RGB LED (status indicator)	[[Datasheet]](https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)

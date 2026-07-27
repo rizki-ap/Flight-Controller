@@ -9,7 +9,7 @@ pixhawk 5x standard :
 
 Processor 
 - STM32F765x - flight-processor [[datasheet]](https://www.st.com/resource/en/datasheet/stm32f765ii.pdf) - [details](https://github.com/rizki-ap/Flight-Controller/blob/main/hardware/FlightMCU.md)
-- STM32f103x - IO-processor [[datasheet]](https://www.st.com/resource/en/datasheet/stm32f103c8.pdf)
+- STM32f103x - IO-processor [[datasheet]](https://www.st.com/resource/en/datasheet/stm32f103c8.pdf) - [details](https://github.com/rizki-ap/Flight-Controller/blob/main/hardware/IoMCU.md)
 
 Sensors :
 - ICM‑20689 - 3‑axis gyro + 3‑axis accel, SPI-if [[datasheet]](https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/ds-000143-icm-20689-datasheet.pdf)

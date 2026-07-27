@@ -26,6 +26,7 @@ Communication :
 - USB3300‑EZK	- USB 2.0 High‑Speed PHY (ULPI)	[[Datasheet]](https://ww1.microchip.com/downloads/en/DeviceDoc/00001783C.pdf)
 - CP2102N‑A02‑GQFN28 (or CP2102)	- USB‑to‑UART bridge (IO debug console) [[Datasheet]](https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf)
 - SN65HVD230QD	- 3.3 V CAN transceiver (×2)	[[Datasheet]](https://www.ti.com/lit/ds/symlink/sn65hvd230.pdf)
+- TJA1051 - CAN Tranceiver [[datasheet]](https://www.nxp.com/docs/en/data-sheet/TJA1051.pdf)
 
 Power :
 - TPS62133RGTR - 3 A step‑down converter (5 V → 3.3 V)	[[Datasheet]](https://www.ti.com/lit/ds/symlink/tps62133.pdf)

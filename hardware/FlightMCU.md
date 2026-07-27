@@ -31,3 +31,5 @@ IO required
 - IO-MCU-comm     : 1xUART(6)
 
 Total pin : 
+
+Source : DS-011 page-6

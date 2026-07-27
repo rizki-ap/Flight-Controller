@@ -25,14 +25,14 @@ Memory :
 
 Communication :
 - USB3300‑EZK	USB 2.0 High‑Speed PHY (ULPI)	[[Datasheet]](https://ww1.microchip.com/downloads/en/DeviceDoc/00001783C.pdf)
-- CP2102N‑A02‑GQFN28 (or CP2102)	USB‑to‑UART bridge (IO debug console)	CP2102N Datasheet
-- SN65HVD230QD	3.3 V CAN transceiver (×2)	SN65HVD230 Datasheet
+- CP2102N‑A02‑GQFN28 (or CP2102)	USB‑to‑UART bridge (IO debug console) [[Datasheet]](https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf)
+- SN65HVD230QD	3.3 V CAN transceiver (×2)	[[Datasheet]](https://www.ti.com/lit/ds/symlink/sn65hvd230.pdf)
 
 Power :
-- TPS62133RGTR	3 A step‑down converter (5 V → 3.3 V)	TPS62133 Datasheet
-- LP2985‑33DBVR	Low‑noise 3.3 V LDO (sensor supply)	LP2985 Datasheet
-- INA226AIDGSR (×2)	I²C current/voltage/power monitor (dual battery inputs)	INA226 Datasheet
-- MCP73831T‑2ACI/OT	Li‑Poly charger for the RTC backup battery	MCP73831 Datasheet
+- TPS62133RGTR	3 A step‑down converter (5 V → 3.3 V)	[[Datasheet]](https://www.ti.com/lit/ds/symlink/tps62133.pdf)
+- LP2985‑33DBVR	Low‑noise 3.3 V LDO (sensor supply)	[[Datasheet]](https://www.ti.com/lit/ds/symlink/lp2985.pdf)
+- INA226AIDGSR (×2)	I²C current/voltage/power monitor (dual battery inputs)	[[Datasheet]](https://www.ti.com/lit/ds/symlink/ina226.pdf)
+- MCP73831T‑2ACI/OT	Li‑Poly charger for the RTC backup battery	[[Datasheet]](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73831-Family-Data-Sheet-DS20001984H.pdf)
 
-- PCA9306DCUR	Dual bidirectional I²C level shifter (3.3 V ↔ 5 V)	PCA9306 Datasheet
-- WS2812B‑2020	Addressable RGB LED (status indicator)	WS2812B Datasheet
+- PCA9306DCUR	Dual bidirectional I²C level shifter (3.3 V ↔ 5 V)	[[Datasheet]](https://www.ti.com/lit/ds/symlink/pca9306.pdf)
+- WS2812B‑2020	Addressable RGB LED (status indicator)	[[Datasheet]](https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)

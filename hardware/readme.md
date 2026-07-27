@@ -16,8 +16,7 @@ Sensors :
 - ICM‑42688‑P [[datasheet]](https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/ds-000347-icm-42688-p-v1.6.pdf)
 - BMI088 [[datasheet]](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi088-ds001.pdf)
 - MS5611‑01BA03	High‑resolution barometric pressure sensor (I²C/SPI)	[[Datasheet]](https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FMS5611-01BA03%7FB3%7Fpdf%7FEnglish%7FENG_DS_MS5611-01BA03_B3.pdf)
-- IST8310	3‑axis magnetometer (I²C)	[[Datasheet]](http://www.isentek.com/en/dlf.php?file=../sensor_datasheet/IST8310%2520Datasheet%2520v1.2.pdf)
-
+- IST8310	3‑axis magnetometer (I²C)	[[Datasheet]](https://www.isentek.com/api/download?url=https%3A%2F%2Fassets.isentek.com%2Fpublic%2Fdocuments%2Fdatasheet%2FHFH0n8I7hQ-IST8310_Datasheet_V1.8_Web.pdf&filename=IST8310_Datasheet_V1.8_Web.pdf&action=view)
 Memory :
 - W25Q128JVSIM (or JVSIQ)	16 MB SPI NOR Flash (data logging) [[Datasheet]](https://www.winbond.com/resource-files/w25q128jv_dtr%2520revb%252007202016.pdf)
 - MB85RS64VPNF‑G‑JNE1	64 Kbit SPI FRAM (parameter storage)	[[Datasheet]](https://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/DS_MB85RS64V-DS501-00005-4v0-E.pdf)

@@ -37,3 +37,11 @@ Power :
 Other :
 - PCA9306DCUR	- Dual bidirectional I²C level shifter (3.3 V ↔ 5 V)	[[Datasheet]](https://www.ti.com/lit/ds/symlink/pca9306.pdf)
 - WS2812B‑2020 - Addressable RGB LED (status indicator)	[[Datasheet]](https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+
+Connector :
+- Hirose DF40C-100DP-0.4V(51) : 100pin - X1 FMU-side
+- Hirose DF40C-100DS-0.4V(51) : 100pin - X1 Baseboard-side
+- Hirose DF40C-100DP-0.4V(51) : 50pin - X2 FMU-side : 
+- Hirose DF40C-100DS-0.4V(51) : 50pin - X2 Baseboard-side 
+- MEM2077 - Micro-SD Socket : https://www.lcsc.com/datasheet/C5352762.pdf
+- 

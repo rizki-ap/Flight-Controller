@@ -45,6 +45,8 @@ Connector :
 - Hirose DF40C-100DS-0.4V(51) : 50pin - X2 Baseboard-side 
 - MEM2077 - Micro-SD Socket : https://www.lcsc.com/datasheet/C5352762.pdf
 
+pim.murata.com/asset/pim4/ceramicCapacitorSMD/NFM18PC104R1C3-0-770-EN_PDF_CERAMICCAPACITORSMD
+
 The open hardware design of Pixracer (based on FMUv4) is provided [here](https://github.com/AUAV-OpenSource/FMUv4-PixRacer)
 
 FMUv5 reference design pinout [here](https://docs.google.com/spreadsheets/d/1-n0__BYDedQrc_2NHqBenG1DNepAgnHpSGglke-QQwY/edit#gid=912976165)

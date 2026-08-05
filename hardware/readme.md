@@ -51,6 +51,9 @@ The open hardware design of Pixracer (based on FMUv4) is provided [here](https:/
 
 FMUv5 reference design pinout [here](https://docs.google.com/spreadsheets/d/1-n0__BYDedQrc_2NHqBenG1DNepAgnHpSGglke-QQwY/edit#gid=912976165)
 
+https://oshwhub.com/search?wd=fmu
+
+
 https://github.com/cuav/hardware/blob/master/PixHack_v3/
 
 

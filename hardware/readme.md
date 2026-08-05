@@ -53,6 +53,7 @@ FMUv5 reference design pinout [here](https://docs.google.com/spreadsheets/d/1-n0
 
 https://oshwhub.com/search?wd=fmu
 
+https://docs.airvolute.com/autopilots/dronecore-2
 
 https://github.com/cuav/hardware/blob/master/PixHack_v3/
 

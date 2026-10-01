@@ -28,3 +28,5 @@ Connectivity:
 - I2C,
 - SPI,
 - DSM/SBUS RC inputs
+
+https://github.com/Peize-Liu/Nxt-FC-Hardware
